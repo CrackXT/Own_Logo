@@ -1,6 +1,6 @@
 # Own_Logo
 
-My own company "µSonic Industries" was founded or was created in 2021. It is a maker company and electronic projects are created or realized under the flag.
+My own company "µSonic Industries" was founded or was created in 2021. It is a maker company and own electronic projects are created or realized under the flag.
 
 ![3D_Draft_Logo2](https://user-images.githubusercontent.com/88975406/196210587-ee503a0a-ce82-4424-b2ba-69b28026c229.png)
 
