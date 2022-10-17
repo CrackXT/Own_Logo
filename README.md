@@ -4,9 +4,9 @@ My own company "µSonic Industries" was founded or was created in 2021. It is a 
 
 # Description
 
-long:   µSonic Industries
-short:  µSI 
-since:  2021
+- long:   µSonic Industries
+- short:  µSI 
+- since:  2021
 
 # Layout
 
