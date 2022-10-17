@@ -24,4 +24,4 @@ Own design and layout.
 
 # Version - Build
 
-v2.0 - 17.07.2022
+v2.2 - 17.07.2022
