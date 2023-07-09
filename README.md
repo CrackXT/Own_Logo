@@ -7,8 +7,7 @@ My own "company" "µSonic Industries" was founded or was created in 2021. It is 
 # PCB
 
 negativ for layout
-![µSI](https://github.com/CrackXT/Own_Logo/assets/88975406/fbcda0e7-788b-41bc-91c0-e26bb4186f65.png)
-
+![µSI](https://github.com/CrackXT/Own_Logo/assets/88975406/8512681d-b5db-4da3-9ab8-da662ec9a45f)
 
 # Description
 
