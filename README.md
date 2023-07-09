@@ -4,6 +4,12 @@ My own "company" "µSonic Industries" was founded or was created in 2021. It is 
 
 ![3D_Draft_Logo2](https://user-images.githubusercontent.com/88975406/196210587-ee503a0a-ce82-4424-b2ba-69b28026c229.png)
 
+# PCB
+
+negativ for layout
+![µSI](https://github.com/CrackXT/Own_Logo/assets/88975406/fbcda0e7-788b-41bc-91c0-e26bb4186f65)
+
+
 # Description
 
 - long:   µSonic Industries
